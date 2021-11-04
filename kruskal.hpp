@@ -8,7 +8,7 @@ typedef int Vertex; // Vértice
 typedef std::pair<Weight, std::pair<Vertex, Vertex>> Edge; // Aresta
 
 /**
- * @class Graph: classe de um grafo
+ * @class Graph: classe de um grafo ponderado não-orientado
 
  * @attr (vector<Edge>) listEdge: vetor contendo as arestas
  * @attr (int) size: quantidade de arestas
