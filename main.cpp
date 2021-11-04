@@ -1,4 +1,6 @@
-// Código de exemplo de execução do algoritmo de Kruskal
+/*
+* Código de exemplo de execução do algoritmo de Kruskal
+*/
 
 #include <iostream>
 #include "disjointSet.hpp"
