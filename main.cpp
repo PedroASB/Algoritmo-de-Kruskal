@@ -24,13 +24,13 @@ int main(){
 
 	cout << "\nGrafo Original:" << endl;
 	graph.print();
-	cout << "Peso Total: " << graph.getWeight() <<endl;
+	cout << "Peso Total: " << graph.getWeight() << endl;
 
 	minimumGraph = graph.kruskal();
 	
 	cout << "\nGrafo Minimo:" << endl;
 	minimumGraph.print();
-	cout << "Peso Total: " << minimumGraph.getWeight() <<endl;
+	cout << "Peso Total: " << minimumGraph.getWeight() << endl;
 
 	return 0;
 }
