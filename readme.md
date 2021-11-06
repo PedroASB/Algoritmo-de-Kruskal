@@ -25,4 +25,4 @@
 
 ### Kruskal
 
-&ensp;&ensp;Responsável por gerenciar a estrutura de um grafo não-orientado, bem como realizar o algoritmo de Kruskal.
+&ensp;&ensp;Responsável por gerenciar a estrutura de um grafo ponderado não-orientado, bem como realizar o algoritmo de Kruskal.
